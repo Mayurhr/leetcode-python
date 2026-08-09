@@ -1,4 +1,91 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 From Bugs to Brilliance — LeetCode by Mayur
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Auto%20Synced-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/github/last-commit/Mayurhr/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/Mayurhr/DSA?style=for-the-badge" />
+</p>
+
+---
+
+## 📖 About This Repository
+
+This repository contains my Daily LeetCode practice repository automatically synced from LeetCode to GitHub.
+
+Each problem folder includes:
+
+- 📄 Problem statement
+- 💻 Accepted solution
+- 🗂️ Topic-based organization
+- 🔄 Automatic updates after every successful submission
+
+The goal of this repository is to maintain a **consistent DSA practice archive** and track my problem-solving journey over time.
+
+---
+
+## 📊 LeetCode Statistics
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/qE84FwcT6p?theme=radical&font=baloo&ext=contest"
+    width="50%"
+    alt="LeetCode Stats"
+  />
+</p>
+
+---
+
+## 🔥 LeetCode Problem Solving Activity
+
+<p align="center">
+  <img 
+    src="https://leetcode-activity-heatmap.vercel.app/api?username=mayurhr&theme=dark"
+    width="100%"
+    alt="LeetCode Calendar Heatmap"
+  />
+</p>
+
+---
+
+## 🎯 Milestone Roadmap
+
+<div align="center">
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-23%20%2F%20200-2ea043?style=for-the-badge&logo=leetcode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/20-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/50-Pending-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/75-Pending-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100-Pending-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/150-Pending-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/200-Pending-red?style=for-the-badge" />
+</p>
+
+
+</div>
+
+---
+
+## 🌐 Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/qE84fwcT6p/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/Mayurhr">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+<div align="center">
+ Consistency beats intensity — one accepted problem every day makes a huge difference.
+</div>
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
