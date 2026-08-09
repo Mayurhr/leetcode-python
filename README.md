@@ -10,38 +10,26 @@
 
 ## 📖 About This Repository
 
-This repository contains my Daily LeetCode practice repository automatically synced from LeetCode to GitHub.
+This repository contains my **daily LeetCode practice**, automatically synced from **LeetCode to GitHub** using **LeetHub v2**.
 
 Each problem folder includes:
 
-- 📄 Problem statement
-- 💻 Accepted solution
-- 🗂️ Topic-based organization
-- 🔄 Automatic updates after every successful submission
+* 📄 Problem statement
+* 💻 Accepted solution
+* 🗂️ Topic-based organization
+* 🔄 Automatic updates after every successful submission
 
-The goal of this repository is to maintain a **consistent DSA practice archive** and track my problem-solving journey over time.
-
----
-
-## 📊 LeetCode Statistics
-
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/qE84FwcT6p?theme=radical&font=baloo&ext=contest"
-    width="50%"
-    alt="LeetCode Stats"
-  />
-</p>
+The goal of this repository is to maintain a **consistent DSA practice archive** and track my **problem-solving journey over time**.
 
 ---
 
-## 🔥 LeetCode Problem Solving Activity
+## 📊 LeetCode Statistics & Activity
 
 <p align="center">
   <img 
-    src="https://leetcode-activity-heatmap.vercel.app/api?username=mayurhr&theme=dark"
-    width="100%"
-    alt="LeetCode Calendar Heatmap"
+    src="https://leetcard.jacoblin.cool/qE84FwcT6p?theme=dark&ext=heatmap" 
+    width="70%"
+    alt="LeetCode Statistics and Heatmap"
   />
 </p>
 
@@ -49,31 +37,25 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 
 ## 🎯 Milestone Roadmap
 
-<div align="center">
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-23%20%2F%20200-2ea043?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/20-Completed-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/50-Target-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/75-Target-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100-Target-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/150-Target-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/200-Target-red?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/20-Completed-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/50-Pending-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/75-Pending-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/100-Pending-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/150-Pending-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/200-Pending-red?style=for-the-badge" />
+  🚀 <b>23 / 200 Problems Solved</b>
 </p>
-
-
-</div>
 
 ---
 
 ## 🌐 Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/qE84fwcT6p/">
+  <a href="https://leetcode.com/u/qE84FwcT6p/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://github.com/Mayurhr">
@@ -82,10 +64,12 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 </p>
 
 ---
-<div align="center">
- Consistency beats intensity — one accepted problem every day makes a huge difference.
-</div>
+
+> **Consistency beats intensity — one accepted problem every day makes a huge difference.**
+
 ---
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
