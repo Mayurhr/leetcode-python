@@ -26,8 +26,8 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 ## 📊 LeetCode Statistics & Activity
 
 <p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/qE84FwcT6p?theme=dark&ext=heatmap" 
+  <img
+    src="https://leetcard.jacoblin.cool/qE84FwcT6p?theme=dark&ext=heatmap"
     width="70%"
     alt="LeetCode Statistics and Heatmap"
   />
