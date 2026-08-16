@@ -135,6 +135,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayurhr/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Mayurhr/DSA/tree/master/0155-min-stack) |
 ## String Matching
 |  |
 | ------- |
@@ -209,4 +210,8 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayurhr/DSA/tree/master/3925-concatenate-array-with-reverse) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Mayurhr/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
