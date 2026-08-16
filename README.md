@@ -38,18 +38,12 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 ## 🎯 Milestone Roadmap
 
 <!-- LEETCODE-STATS-START -->
-
 <p align="center">
   🚀 <b>32 / 200 Problems Solved</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/20-Completed-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/50-Target-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/75-Target-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/100-Target-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/150-Target-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/200-Target-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/20-Completed-2ea043?style=for-the-badge" /> <img src="https://img.shields.io/badge/50-Target-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/75-Target-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/100-Target-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/150-Target-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/200-Target-red?style=for-the-badge" />
 </p>
 <!-- LEETCODE-STATS-END -->
 
