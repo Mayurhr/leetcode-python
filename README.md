@@ -75,6 +75,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0014-longest-common-prefix](https://github.com/Mayurhr/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Mayurhr/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Mayurhr/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | ------- |
 | [0016-3sum-closest](https://github.com/Mayurhr/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Mayurhr/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
