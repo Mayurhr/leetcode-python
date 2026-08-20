@@ -129,6 +129,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0014-longest-common-prefix](https://github.com/Mayurhr/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mayurhr/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Mayurhr/DSA/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
 ## Stack
