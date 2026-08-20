@@ -39,7 +39,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 
 <!-- LEETCODE-STATS-START -->
 <p align="center">
-  🚀 <b>33 / 200 Problems Solved</b>
+  🚀 <b>34 / 200 Problems Solved</b>
 </p>
 
 <p align="center">
