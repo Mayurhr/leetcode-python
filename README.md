@@ -154,6 +154,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mayurhr/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mayurhr/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayurhr/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayurhr/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
