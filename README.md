@@ -134,6 +134,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0058-length-of-last-word](https://github.com/Mayurhr/DSA/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
+| [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
