@@ -114,6 +114,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
+| [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Mayurhr/DSA/tree/master/3945-digit-frequency-score) |
@@ -135,6 +136,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0058-length-of-last-word](https://github.com/Mayurhr/DSA/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
