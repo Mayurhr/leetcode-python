@@ -77,6 +77,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayurhr/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Mayurhr/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
@@ -156,6 +157,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0009-palindrome-number](https://github.com/Mayurhr/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Mayurhr/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
