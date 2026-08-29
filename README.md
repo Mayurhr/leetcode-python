@@ -86,6 +86,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -141,6 +142,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
@@ -224,6 +226,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayurhr/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
