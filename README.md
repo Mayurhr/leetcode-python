@@ -86,6 +86,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -226,6 +227,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayurhr/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
