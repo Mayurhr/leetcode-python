@@ -123,6 +123,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Mayurhr/DSA/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
@@ -145,6 +146,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
