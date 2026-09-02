@@ -104,6 +104,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0088-merge-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/Mayurhr/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [2396-strictly-palindromic-number](https://github.com/Mayurhr/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mayurhr/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mayurhr/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -252,4 +254,8 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Mayurhr/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
