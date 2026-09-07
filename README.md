@@ -91,6 +91,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Mayurhr/DSA/tree/master/3701-compute-alternating-sum) |
@@ -150,6 +151,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
