@@ -278,4 +278,8 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Mayurhr/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
