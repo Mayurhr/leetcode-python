@@ -90,6 +90,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [1929-concatenation-of-array](https://github.com/Mayurhr/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
@@ -119,6 +120,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayurhr/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -129,6 +131,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -248,6 +251,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [1929-concatenation-of-array](https://github.com/Mayurhr/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3701-compute-alternating-sum](https://github.com/Mayurhr/DSA/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayurhr/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
@@ -278,8 +282,13 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Mayurhr/DSA/tree/master/0196-delete-duplicate-emails) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
