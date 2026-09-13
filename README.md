@@ -133,6 +133,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Mayurhr/DSA/tree/master/3945-digit-frequency-score) |
@@ -160,6 +161,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -220,6 +222,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | ------- |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
