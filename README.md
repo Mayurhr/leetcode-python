@@ -86,6 +86,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Mayurhr/DSA/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mayurhr/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
