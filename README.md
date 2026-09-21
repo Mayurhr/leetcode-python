@@ -163,6 +163,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Mayurhr/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
@@ -232,6 +233,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -298,6 +300,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
