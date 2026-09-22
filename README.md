@@ -160,6 +160,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mayurhr/DSA/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
+| [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Mayurhr/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -181,6 +182,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Math
 |  |
 | ------- |
@@ -311,4 +313,12 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
