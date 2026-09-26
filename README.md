@@ -92,6 +92,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mayurhr/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -126,6 +127,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayurhr/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -310,6 +312,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
@@ -327,4 +330,8 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
