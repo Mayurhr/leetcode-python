@@ -200,6 +200,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [2413-smallest-even-multiple](https://github.com/Mayurhr/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Mayurhr/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mayurhr/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Mayurhr/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mayurhr/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Mayurhr/DSA/tree/master/3516-find-closest-person) |
