@@ -318,6 +318,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Mayurhr/DSA/tree/master/0196-delete-duplicate-emails) |
+| [1484-group-sold-products-by-the-date](https://github.com/Mayurhr/DSA/tree/master/1484-group-sold-products-by-the-date) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
