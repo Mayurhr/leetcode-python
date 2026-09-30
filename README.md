@@ -200,6 +200,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [0066-plus-one](https://github.com/Mayurhr/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [2235-add-two-integers](https://github.com/Mayurhr/DSA/tree/master/2235-add-two-integers) |
@@ -339,4 +340,8 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
