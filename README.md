@@ -89,6 +89,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Mayurhr/DSA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Mayurhr/DSA/tree/master/1672-richest-customer-wealth) |
+| [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mayurhr/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -157,6 +158,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## String
 |  |
@@ -249,6 +251,7 @@ The goal of this repository is to maintain a **consistent DSA practice archive**
 | ------- |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
