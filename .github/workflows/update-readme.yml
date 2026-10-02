@@ -27,11 +27,11 @@ jobs:
 
           README = "README.md"
 
-          # Count numeric problem folders
+          # Count LeetCode problem folders
           problem_count = 0
 
           for item in os.listdir("."):
-              if os.path.isdir(item) and item.isdigit():
+              if os.path.isdir(item) and item[:4].isdigit() and "-" in item:
                   problem_count += 1
 
           total = 200
