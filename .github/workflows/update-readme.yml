@@ -1,0 +1,92 @@
+name: Update LeetCode Progress
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README statistics
+        shell: python
+        run: |
+          import os
+          import re
+
+          README = "README.md"
+
+          # Count numeric problem folders
+          problem_count = 0
+
+          for item in os.listdir("."):
+              if os.path.isdir(item) and item.isdigit():
+                  problem_count += 1
+
+          total = 200
+
+          milestones = [20, 50, 75, 100, 150, 200]
+
+          badges = []
+
+          for milestone in milestones:
+              if problem_count >= milestone:
+                  badges.append(
+                      f'<img src="https://img.shields.io/badge/{milestone}-Completed-2ea043?style=for-the-badge" />'
+                  )
+              else:
+                  badges.append(
+                      f'<img src="https://img.shields.io/badge/{milestone}-Target-red?style=for-the-badge" />'
+                  )
+
+          badge_html = " ".join(badges)
+
+          stats_html = f"""<!-- LEETCODE-STATS-START -->
+          <p align="center">
+            🚀 <b>{problem_count} / {total} Problems Solved</b>
+          </p>
+
+          <p align="center">
+            {badge_html}
+          </p>
+          <!-- LEETCODE-STATS-END -->"""
+
+          with open(README, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r"<!-- LEETCODE-STATS-START -->.*?<!-- LEETCODE-STATS-END -->"
+
+          new_content = re.sub(
+              pattern,
+              stats_html,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open(README, "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"Detected {problem_count} problem folders.")
+
+      - name: Commit README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No README changes."
+          else
+            git commit -m "chore: update LeetCode progress"
+            git push
+          fi
