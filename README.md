@@ -152,6 +152,7 @@ The repository is continuously updated as I solve new problems.
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayurhr/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
@@ -176,6 +177,7 @@ The repository is continuously updated as I solve new problems.
 | [1332-remove-palindromic-subsequences](https://github.com/Mayurhr/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -322,6 +324,7 @@ The repository is continuously updated as I solve new problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
