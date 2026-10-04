@@ -222,6 +222,7 @@ The repository is continuously updated as I solve new problems.
 | [3783-mirror-distance-of-an-integer](https://github.com/Mayurhr/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Mayurhr/DSA/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/Mayurhr/DSA/tree/master/3945-digit-frequency-score) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mayurhr/leetcode-python/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ The repository is continuously updated as I solve new problems.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mayurhr/leetcode-python/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
 |  |
 | ------- |
