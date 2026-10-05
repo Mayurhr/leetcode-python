@@ -206,6 +206,7 @@ The repository is continuously updated as I solve new problems.
 | [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurhr/leetcode-python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Mayurhr/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Mayurhr/DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Mayurhr/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -269,6 +270,7 @@ The repository is continuously updated as I solve new problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurhr/leetcode-python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
 | ------- |
