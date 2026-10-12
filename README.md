@@ -230,6 +230,7 @@ The repository is continuously updated as I solve new problems.
 | [2413-smallest-even-multiple](https://github.com/Mayurhr/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Mayurhr/DSA/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Mayurhr/leetcode-python/tree/master/2549-count-distinct-numbers-on-board) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Mayurhr/leetcode-python/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mayurhr/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Mayurhr/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mayurhr/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -349,6 +350,7 @@ The repository is continuously updated as I solve new problems.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Mayurhr/leetcode-python/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mayurhr/leetcode-python/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
 |  |
