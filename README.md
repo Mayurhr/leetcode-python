@@ -139,6 +139,7 @@ The repository is continuously updated as I solve new problems.
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
@@ -155,6 +156,7 @@ The repository is continuously updated as I solve new problems.
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
@@ -189,6 +191,7 @@ The repository is continuously updated as I solve new problems.
 | [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
 | [1108-defanging-an-ip-address](https://github.com/Mayurhr/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Mayurhr/DSA/tree/master/1332-remove-palindromic-subsequences) |
