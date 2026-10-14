@@ -85,6 +85,7 @@ The repository is continuously updated as I solve new problems.
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Mayurhr/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
