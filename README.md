@@ -207,6 +207,7 @@ The repository is continuously updated as I solve new problems.
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Mayurhr/DSA/tree/master/3794-reverse-string-prefix) |
+| [3813-vowel-consonant-score](https://github.com/Mayurhr/leetcode-python/tree/master/3813-vowel-consonant-score) |
 ## Stack
 |  |
 | ------- |
@@ -323,6 +324,7 @@ The repository is continuously updated as I solve new problems.
 | [2549-count-distinct-numbers-on-board](https://github.com/Mayurhr/leetcode-python/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Mayurhr/DSA/tree/master/3701-compute-alternating-sum) |
+| [3813-vowel-consonant-score](https://github.com/Mayurhr/leetcode-python/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayurhr/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
