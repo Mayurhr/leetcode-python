@@ -84,6 +84,7 @@ The repository is continuously updated as I solve new problems.
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mayurhr/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ The repository is continuously updated as I solve new problems.
 | [0075-sort-colors](https://github.com/Mayurhr/leetcode-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [1332-remove-palindromic-subsequences](https://github.com/Mayurhr/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -138,6 +140,7 @@ The repository is continuously updated as I solve new problems.
 | [0088-merge-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
@@ -155,6 +158,7 @@ The repository is continuously updated as I solve new problems.
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
@@ -256,6 +260,7 @@ The repository is continuously updated as I solve new problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayurhr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
