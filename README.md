@@ -81,6 +81,7 @@ The repository is continuously updated as I solve new problems.
 | [0066-plus-one](https://github.com/Mayurhr/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mayurhr/leetcode-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Mayurhr/leetcode-python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
@@ -306,6 +307,7 @@ The repository is continuously updated as I solve new problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Mayurhr/leetcode-python/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurhr/leetcode-python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
