@@ -194,6 +194,7 @@ The repository is continuously updated as I solve new problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Mayurhr/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mayurhr/DSA/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/Mayurhr/leetcode-python/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [0459-repeated-substring-pattern](https://github.com/Mayurhr/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Mayurhr/DSA/tree/master/0520-detect-capital) |
@@ -232,6 +233,7 @@ The repository is continuously updated as I solve new problems.
 | [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Mayurhr/DSA/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Mayurhr/leetcode-python/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
