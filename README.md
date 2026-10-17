@@ -101,6 +101,7 @@ The repository is continuously updated as I solve new problems.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Mayurhr/leetcode-python/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Mayurhr/leetcode-python/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayurhr/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -164,6 +165,7 @@ The repository is continuously updated as I solve new problems.
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Mayurhr/leetcode-python/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Mayurhr/leetcode-python/tree/master/2549-count-distinct-numbers-on-board) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
