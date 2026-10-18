@@ -117,6 +117,7 @@ The repository is continuously updated as I solve new problems.
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mayurhr/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mayurhr/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayurhr/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Mayurhr/leetcode-python/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +260,7 @@ The repository is continuously updated as I solve new problems.
 | [3783-mirror-distance-of-an-integer](https://github.com/Mayurhr/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Mayurhr/DSA/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/Mayurhr/DSA/tree/master/3945-digit-frequency-score) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Mayurhr/leetcode-python/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mayurhr/leetcode-python/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
