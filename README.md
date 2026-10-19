@@ -105,6 +105,7 @@ The repository is continuously updated as I solve new problems.
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mayurhr/leetcode-python/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Mayurhr/leetcode-python/tree/master/2549-count-distinct-numbers-on-board) |
+| [2706-buy-two-chocolates](https://github.com/Mayurhr/leetcode-python/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayurhr/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
@@ -150,6 +151,7 @@ The repository is continuously updated as I solve new problems.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
+| [2706-buy-two-chocolates](https://github.com/Mayurhr/leetcode-python/tree/master/2706-buy-two-chocolates) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayurhr/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -373,6 +375,7 @@ The repository is continuously updated as I solve new problems.
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Mayurhr/leetcode-python/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2706-buy-two-chocolates](https://github.com/Mayurhr/leetcode-python/tree/master/2706-buy-two-chocolates) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mayurhr/leetcode-python/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
