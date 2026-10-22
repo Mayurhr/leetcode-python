@@ -90,6 +90,7 @@ The repository is continuously updated as I solve new problems.
 | [0485-max-consecutive-ones](https://github.com/Mayurhr/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Mayurhr/DSA/tree/master/1470-shuffle-the-array) |
@@ -130,6 +131,7 @@ The repository is continuously updated as I solve new problems.
 | [0088-merge-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/Mayurhr/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurhr/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -148,6 +150,7 @@ The repository is continuously updated as I solve new problems.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
