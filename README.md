@@ -92,6 +92,7 @@ The repository is continuously updated as I solve new problems.
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1207-unique-number-of-occurrences](https://github.com/Mayurhr/leetcode-python/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Mayurhr/DSA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Mayurhr/DSA/tree/master/1672-richest-customer-wealth) |
@@ -170,6 +171,7 @@ The repository is continuously updated as I solve new problems.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayurhr/leetcode-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mayurhr/DSA/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
+| [1207-unique-number-of-occurrences](https://github.com/Mayurhr/leetcode-python/tree/master/1207-unique-number-of-occurrences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mayurhr/leetcode-python/tree/master/2395-find-subarrays-with-equal-sum) |
