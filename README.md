@@ -95,6 +95,7 @@ The repository is continuously updated as I solve new problems.
 | [1207-unique-number-of-occurrences](https://github.com/Mayurhr/leetcode-python/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Mayurhr/DSA/tree/master/1470-shuffle-the-array) |
+| [1598-crawler-log-folder](https://github.com/Mayurhr/leetcode-python/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Mayurhr/DSA/tree/master/1672-richest-customer-wealth) |
 | [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
@@ -213,6 +214,7 @@ The repository is continuously updated as I solve new problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Mayurhr/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Mayurhr/leetcode-python/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1598-crawler-log-folder](https://github.com/Mayurhr/leetcode-python/tree/master/1598-crawler-log-folder) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -231,6 +233,7 @@ The repository is continuously updated as I solve new problems.
 | [0020-valid-parentheses](https://github.com/Mayurhr/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mayurhr/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mayurhr/DSA/tree/master/0155-min-stack) |
+| [1598-crawler-log-folder](https://github.com/Mayurhr/leetcode-python/tree/master/1598-crawler-log-folder) |
 ## String Matching
 |  |
 | ------- |
