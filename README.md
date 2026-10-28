@@ -392,6 +392,7 @@ The repository is continuously updated as I solve new problems.
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Mayurhr/DSA/tree/master/0196-delete-duplicate-emails) |
 | [1484-group-sold-products-by-the-date](https://github.com/Mayurhr/DSA/tree/master/1484-group-sold-products-by-the-date) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Mayurhr/leetcode-python/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
