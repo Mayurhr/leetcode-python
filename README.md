@@ -98,6 +98,7 @@ The repository is continuously updated as I solve new problems.
 | [1598-crawler-log-folder](https://github.com/Mayurhr/leetcode-python/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Mayurhr/DSA/tree/master/1672-richest-customer-wealth) |
 | [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurhr/leetcode-python/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Mayurhr/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mayurhr/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -153,6 +154,7 @@ The repository is continuously updated as I solve new problems.
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurhr/leetcode-python/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
@@ -421,6 +423,7 @@ The repository is continuously updated as I solve new problems.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mayurhr/leetcode-python/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurhr/leetcode-python/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
