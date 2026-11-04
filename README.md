@@ -267,6 +267,7 @@ The repository is continuously updated as I solve new problems.
 | [2769-find-the-maximum-achievable-number](https://github.com/Mayurhr/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Mayurhr/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mayurhr/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Mayurhr/leetcode-python/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Mayurhr/DSA/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayurhr/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -326,6 +327,7 @@ The repository is continuously updated as I solve new problems.
 | [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Mayurhr/leetcode-python/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurhr/leetcode-python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Mayurhr/leetcode-python/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
