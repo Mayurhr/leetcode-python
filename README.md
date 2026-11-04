@@ -113,6 +113,7 @@ The repository is continuously updated as I solve new problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayurhr/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/Mayurhr/leetcode-python/tree/master/2951-find-the-peaks) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -191,6 +192,7 @@ The repository is continuously updated as I solve new problems.
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayurhr/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Mayurhr/leetcode-python/tree/master/2951-find-the-peaks) |
 ## Prefix Sum
 |  |
 | ------- |
