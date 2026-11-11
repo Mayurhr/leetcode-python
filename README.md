@@ -34,7 +34,7 @@ The repository is continuously updated as I solve new problems.
 
 <!-- LEETCODE-STATS-START -->
 <p align="center">
-  🚀 <b>143 / 200 Problems Solved</b>
+  🚀 <b>144 / 200 Problems Solved</b>
 </p>
 
 <p align="center">
