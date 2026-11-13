@@ -228,6 +228,7 @@ The repository is continuously updated as I solve new problems.
 | [2299-strong-password-checker-ii](https://github.com/Mayurhr/leetcode-python/tree/master/2299-strong-password-checker-ii) |
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mayurhr/leetcode-python/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -394,6 +395,7 @@ The repository is continuously updated as I solve new problems.
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Mayurhr/leetcode-python/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2706-buy-two-chocolates](https://github.com/Mayurhr/leetcode-python/tree/master/2706-buy-two-chocolates) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mayurhr/leetcode-python/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mayurhr/leetcode-python/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
 |  |
