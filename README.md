@@ -222,6 +222,7 @@ The repository is continuously updated as I solve new problems.
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Mayurhr/leetcode-python/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1598-crawler-log-folder](https://github.com/Mayurhr/leetcode-python/tree/master/1598-crawler-log-folder) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurhr/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1694-reformat-phone-number](https://github.com/Mayurhr/leetcode-python/tree/master/1694-reformat-phone-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mayurhr/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mayurhr/leetcode-python/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mayurhr/leetcode-python/tree/master/2264-largest-3-same-digit-number-in-string) |
