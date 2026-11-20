@@ -91,6 +91,7 @@ The repository is continuously updated as I solve new problems.
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/Mayurhr/leetcode-python/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayurhr/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -157,6 +158,7 @@ The repository is continuously updated as I solve new problems.
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Mayurhr/leetcode-python/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurhr/leetcode-python/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurhr/leetcode-python/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurhr/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -260,6 +262,7 @@ The repository is continuously updated as I solve new problems.
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurhr/leetcode-python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Mayurhr/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -311,6 +314,7 @@ The repository is continuously updated as I solve new problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayurhr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -409,6 +413,7 @@ The repository is continuously updated as I solve new problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayurhr/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Z Algorithm
 |  |
@@ -426,6 +431,7 @@ The repository is continuously updated as I solve new problems.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -447,4 +453,12 @@ The repository is continuously updated as I solve new problems.
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
