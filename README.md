@@ -119,6 +119,7 @@ The repository is continuously updated as I solve new problems.
 | [3452-sum-of-good-numbers](https://github.com/Mayurhr/leetcode-python/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mayurhr/leetcode-python/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Mayurhr/DSA/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Mayurhr/DSA/tree/master/3731-find-missing-elements) |
@@ -168,6 +169,7 @@ The repository is continuously updated as I solve new problems.
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayurhr/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mayurhr/leetcode-python/tree/master/3634-minimum-removals-to-balance-array) |
 | [3731-find-missing-elements](https://github.com/Mayurhr/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -295,6 +297,7 @@ The repository is continuously updated as I solve new problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayurhr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mayurhr/leetcode-python/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
 |  |
 | ------- |
@@ -463,4 +466,8 @@ The repository is continuously updated as I solve new problems.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Mayurhr/leetcode-python/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mayurhr/leetcode-python/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
