@@ -188,6 +188,7 @@ The repository is continuously updated as I solve new problems.
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mayurhr/leetcode-python/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Mayurhr/leetcode-python/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Mayurhr/leetcode-python/tree/master/2549-count-distinct-numbers-on-board) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayurhr/leetcode-python/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Mayurhr/DSA/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Mayurhr/DSA/tree/master/3731-find-missing-elements) |
@@ -237,6 +238,7 @@ The repository is continuously updated as I solve new problems.
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3110-score-of-a-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mayurhr/leetcode-python/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayurhr/leetcode-python/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mayurhr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurhr/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -326,6 +328,7 @@ The repository is continuously updated as I solve new problems.
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurhr/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayurhr/leetcode-python/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mayurhr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
