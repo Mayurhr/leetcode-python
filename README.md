@@ -116,6 +116,7 @@ The repository is continuously updated as I solve new problems.
 | [2942-find-words-containing-character](https://github.com/Mayurhr/DSA/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Mayurhr/leetcode-python/tree/master/2951-find-the-peaks) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayurhr/leetcode-python/tree/master/3364-minimum-positive-sum-subarray) |
 | [3452-sum-of-good-numbers](https://github.com/Mayurhr/leetcode-python/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Mayurhr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayurhr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -207,6 +208,7 @@ The repository is continuously updated as I solve new problems.
 | [1854-maximum-population-year](https://github.com/Mayurhr/DSA/tree/master/1854-maximum-population-year) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Mayurhr/leetcode-python/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayurhr/leetcode-python/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -472,5 +474,6 @@ The repository is continuously updated as I solve new problems.
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayurhr/leetcode-python/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mayurhr/leetcode-python/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
