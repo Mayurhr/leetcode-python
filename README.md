@@ -267,6 +267,7 @@ The repository is continuously updated as I solve new problems.
 | [0066-plus-one](https://github.com/Mayurhr/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mayurhr/leetcode-python/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/Mayurhr/leetcode-python/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Mayurhr/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mayurhr/DSA/tree/master/0877-stone-game) |
@@ -301,6 +302,7 @@ The repository is continuously updated as I solve new problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayurhr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayurhr/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Mayurhr/leetcode-python/tree/master/0441-arranging-coins) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mayurhr/leetcode-python/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
 |  |
